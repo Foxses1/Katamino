@@ -1,0 +1,13 @@
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe.config
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.pdb
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.exe
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.pdb
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe.manifest
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.application
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.exe.manifest
+C:\Users\Julia\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.application
